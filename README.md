@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abubeker Seifu</h1>
 <h3 align="center">A passionate full stack developer from Jimma, Ethiopia</h3>
 
-- 🔭 I’m currently working on [Student Admission and Placement System (SAPS)](saps.ethernet.edu.et)
+- 🔭 I’m currently working on [Student Admission and Placement System (SAPS)](https://saps.ethernet.edu.et)
 
 - 📫 How to reach me **abubeker3522@gmail.com**
 
